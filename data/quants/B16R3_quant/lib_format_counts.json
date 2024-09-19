@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ./trimmed_reads_paired/B16R3_tr_filter_improved_1.fq.gz, ./trimmed_reads_paired/B16R3_tr_filter_improved_2.fq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 43480154,
+    "num_assigned_fragments": 43480154,
+    "num_frags_with_concordant_consistent_mappings": 25087936,
+    "num_frags_with_inconsistent_or_orphan_mappings": 18501224,
+    "strand_mapping_bias": 0.000008011754718973354,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 201,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 25087936,
+    "SF": 14571481,
+    "SR": 3929542,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

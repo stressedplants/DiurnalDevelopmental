@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ./trimmed_reads_paired/C4R2_tr_filter_improved_1.fq.gz, ./trimmed_reads_paired/C4R2_tr_filter_improved_2.fq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 42514253,
+    "num_assigned_fragments": 42514253,
+    "num_frags_with_concordant_consistent_mappings": 25313641,
+    "num_frags_with_inconsistent_or_orphan_mappings": 17298653,
+    "strand_mapping_bias": 0.000017579145460752564,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 445,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 25313641,
+    "SF": 13339820,
+    "SR": 3958388,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

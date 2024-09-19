@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Don't store personal info
+.RDataTmp
+**/.DS_Store
+
+# Top .Rdata file(s) should be ignored. Others contain useful data.
+.RData
+data/other_datasets/Arabidopsis_thaliana_data.tab
+
+# Don't upload the precompute folder
+pre_compute
+
+# Ignore temporary excel save files
+**/~$**

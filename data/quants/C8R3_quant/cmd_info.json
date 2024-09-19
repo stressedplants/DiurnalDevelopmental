@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.6.0",
+    "index": "./salmon_init/athal_index",
+    "libType": "A",
+    "mates1": "/mnt/lustre/groups/biol-gnplant-2019/ethan_redmond/202203_agingcircadian/trimmed_reads_pairedC8R3_cop_tr_filter_improved_1.fq.gz",
+    "mates2": "/mnt/lustre/groups/biol-gnplant-2019/ethan_redmond/202203_agingcircadian/trimmed_reads_pairedC8R3_cop_tr_filter_improved_2.fq.gz",
+    "validateMappings": [],
+    "output": "./salmon_init/quants/C8R3_",
+    "": "C8R3_quant/",
+    "auxDir": "aux_info"
+}
